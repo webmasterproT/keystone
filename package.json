@@ -1,5 +1,5 @@
 {
-  "name": "@omxus/cf-toolkit",
+  "name": "@omxus/keystone",
   "version": "0.1.0",
   "private": true,
   "description": "Cherry-picked infrastructure patterns for Cloudflare Workers",

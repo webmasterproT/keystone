@@ -1,4 +1,4 @@
-# Example wrangler.toml for @omxus/cf-toolkit
+# Example wrangler.toml for @omxus/keystone
 # Copy and adapt for your project.
 
 name = "my-worker"

@@ -1,6 +1,6 @@
-# @omxus/cf-toolkit
+# @omxus/keystone
 
-Cherry-picked infrastructure patterns for Cloudflare Workers.
+Keystone -- the foundational piece for Cloudflare Workers infrastructure.
 
 Five independent modules. Use one, use all. No lock-in between them.
 
