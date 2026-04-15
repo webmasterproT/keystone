@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build output
+dist/
+build/
+*.js
+*.d.ts
+*.js.map
+!wrangler.toml
+
+# Environment
+.env
+.env.*
+.dev.vars
+
+# Wrangler
+.wrangler/
+.mf/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+coverage/
+.nyc_output/
+
+# Logs
+*.log
