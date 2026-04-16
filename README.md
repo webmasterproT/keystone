@@ -1,8 +1,6 @@
-# @omxus/keystone
-
-Keystone -- the foundational piece for Cloudflare Workers infrastructure.
-
-Five independent modules. Use one, use all. No lock-in between them.
+<p align="center">
+  <img src="assets/hero.png" alt="OMXUS Keystone" width="100%" />
+</p>
 
 ---
 
